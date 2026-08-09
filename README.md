@@ -19,6 +19,8 @@ Particularly interested/Passionate in **Linux kernel development, device drivers
 
 🐧 Linux Internals
    Processes • Threads • IPC • System Calls • Kernel Concepts
+   Kernel 
+   Build • Cross compile • Modules • Character Driver • Synchronization • UART 
    
 📡 WLAN & Networking
    IEEE 802.11 • TCP/IP • Wi-Fi AP • hostapd • wpa_supplicant
